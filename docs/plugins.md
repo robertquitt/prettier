@@ -46,6 +46,7 @@ Providing at least one path to `--plugin-search-dir`/`pluginSearchDirs` turns of
 ## Community Plugins
 
 - [`prettier-plugin-apex`](https://github.com/dangmai/prettier-plugin-apex) by [**@dangmai**](https://github.com/dangmai)
+- [`prettier-plugin-djangohtml`](https://github.com/robertquitt/prettier-plugin-djangohtml) by [**@robertquitt**](https://github.com/robertquitt)
 - [`prettier-plugin-elm`](https://github.com/gicentre/prettier-plugin-elm) by [**@giCentre**](https://github.com/gicentre)
 - [`prettier-plugin-java`](https://github.com/jhipster/prettier-java) by [**@JHipster**](https://github.com/jhipster)
 - [`prettier-plugin-pg`](https://github.com/benjie/prettier-plugin-pg) by [**@benjie**](https://github.com/benjie)
